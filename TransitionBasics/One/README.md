@@ -9,13 +9,14 @@
 <td>"Relleno" que dejamos</td>
 </tr>
 </table>
+
 ```css
 *{
     margin: 0;
     padding: 0;
 }
 ```
----
+
 <table style="text-align:center">
 <tr>
 <td><strong>position</strong></td>
@@ -38,6 +39,7 @@
 <td>Fuente que vamos a utilizar para las letras</td>
 </tr>
 </table>
+
 ```css
 body{
     position: relative;
@@ -47,7 +49,7 @@ body{
     font-family: sans-serif;
 }
 ```
----
+
 <table style="text-align:center">
 <tr>
 <td><strong>font-size</strong></td>
@@ -94,6 +96,7 @@ body{
 <td>Tiempo que va a durar la transicion en realizarse</td>
 </tr>
 </table>
+
 ```css
 .button{
     background-color: red;
@@ -113,7 +116,7 @@ body{
     transition-duration: 0.5s;
 }
 ```
----
+
 <table style="text-align:center">
 <tr>
 <td><strong>:hover</strong></td>
